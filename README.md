@@ -1,10 +1,10 @@
 # Hi, I’m Swetha Bhagavathylekshmi Elango 👋
 
 💡 **About Me:**  
-I'm a **Data Science and Analytics** master's graduate from **Cardiff University**, with a strong background in **software engineering** and **data analysis**. Passionate about transforming complex datasets into actionable insights, I specialize in **data visualization, backend development, and NLP**.
+I'm a **Data Science and Analytics** master's graduate from **Cardiff University**, with a strong background in **software engineering** and **data analysis**. Passionate about transforming complex datasets into actionable insights, I specialize in **data analytics,visualization, backend development, and NLP**.
 
 🔍 **What I Do:**  
-- 📊 **Data Analysis & Visualization**: Skilled in *Excel, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn), and Simul8 for analytical modeling.  
+- 📊 **Data Analysis & Visualization**: Skilled in Excel, Power BI, Python (Pandas, NumPy, Matplotlib, Seaborn), and Simul8 for analytical modeling.  
 - 🛠 **Software Engineering**: Experience in Java, SQL for backend development and database management.  
 - 🤖 **AI & NLP**: Worked on text categorization, natural language processing, and deep learning-based models.  
 
